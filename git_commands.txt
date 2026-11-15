@@ -12,7 +12,7 @@ git init -b main
     Initializes a new, empty Git repository in the current folder, with "main" as the default branch.
 
 git config user.name "Anisha Singhal"
-git config user.email "<github-noreply-email>"
+git config user.email "177726804+anisha-singhal@users.noreply.github.com"
     Sets the author name and email recorded on every commit in this repository.
 
 git status
